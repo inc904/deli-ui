@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+  "scripts": {  
+    "test": "pnpm --filter @deli-ui/components test",
     "dev": "pnpm --filter @deli-ui/play dev",
     "docs:dev": "pnpm --filter @deli-ui/docs docs:dev",
     "docs:build": "pnpm --filter @deli-ui/docs docs:build"
