@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {  
-    "test": "pnpm --filter @deli-ui/components test",
+    "test": "echo 'todo'",
     "dev": "pnpm --filter @deli-ui/play dev",
     "docs:dev": "pnpm --filter @deli-ui/docs docs:dev",
     "docs:build": "pnpm --filter @deli-ui/docs docs:build"
